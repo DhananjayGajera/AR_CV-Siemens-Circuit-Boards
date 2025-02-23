@@ -23,6 +23,9 @@ The model is deployed to perform real-time component detection using a **webcam 
 - **Overall model accuracy** of **0.96**.
 - Reliable and consistent real-time detection with minimal latency.
 
+![image](https://github.com/user-attachments/assets/d34e8d05-0c7f-49d3-96dd-233503cb5242)
+
+
 ## Challenges and Future Improvements
 - Initially, the **SIFT algorithm** struggled with detecting components due to overlapping parts and varied lighting conditions, prompting the switch to YOLOv11.
 - Future work will focus on expanding the dataset to include more component types and scenarios, enhancing the model's robustness.
